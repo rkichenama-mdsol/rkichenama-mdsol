@@ -56,4 +56,4 @@
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkichenama-mdsol&theme=react&hide_border=true" alt="rkichenama-mdsol" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkichenama-mdsol&theme=react&hide_border=true&fire=FF0000&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="rkichenama" /></p>
